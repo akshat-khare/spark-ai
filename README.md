@@ -1,4 +1,4 @@
-
+# Do checkout master branch too!
 
 # 🎥 Text-to-Video Flask Application 🎙️
 This repository contains a Flask application that converts input text into an animated video of a celebrity speaking the input text. The animation uses a static image of the celebrity and manipulates the image to make it look like the celebrity is speaking the words.
